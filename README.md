@@ -35,3 +35,10 @@ W.R.A.I.T.H. is an active custom robotics build based on a Quantum 600 powered-w
 This is an evolving engineering platform. Planned items are not represented as installed, tested, or complete.
 
 This repository documents the build as it exists; it is an active engineering project, not a finished product.
+
+
+## Outdoor operation preview
+
+[Watch the short WRAITH outdoor operation preview.](wraith-field-test-preview.mp4)
+
+*User-provided footage showing RC-operated outdoor movement with the current mounted laptop/camera setup.*
